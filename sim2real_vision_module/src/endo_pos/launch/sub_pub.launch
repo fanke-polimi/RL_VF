@@ -1,4 +1,0 @@
-<launch>
-    <node name="pcd_pub" pkg="endo_pos" type="elp_color_based.py" output="screen"/>
-    <node name="psm_control" pkg="endo_pos" type="psm_control.py" output="screen"/>
-</launch>

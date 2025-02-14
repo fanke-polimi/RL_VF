@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC   -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/media/fk/Elements11/24.07/opencv_3d/endo/build/gtest/lib ../lib/libgtest.so -lpthread 

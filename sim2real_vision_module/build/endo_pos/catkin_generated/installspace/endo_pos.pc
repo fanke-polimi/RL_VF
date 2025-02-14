@@ -1,8 +1,0 @@
-prefix=/media/fk/Elements11/24.07/opencv_3d/endo/install
-
-Name: endo_pos
-Description: Description of endo_pos
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

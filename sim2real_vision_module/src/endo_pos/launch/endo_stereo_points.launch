@@ -1,3 +1,0 @@
-<launch>
-  <node name="endo" pkg="endo_pos" type="endo_point_depth.py" output="screen"/>
-</launch>
