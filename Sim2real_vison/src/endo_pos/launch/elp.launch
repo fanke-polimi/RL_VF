@@ -1,0 +1,4 @@
+<launch>
+  <node name="elp_cam_publisher" pkg="endo_pos" type="elp_img_pub.py" output="screen"/>
+  <node name="elp_image_subscriber" pkg="endo_pos" type="elp_img_sub.py" output="screen"/>
+</launch>
