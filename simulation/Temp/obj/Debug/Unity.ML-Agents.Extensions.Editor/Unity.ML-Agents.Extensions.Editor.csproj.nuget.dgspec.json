@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.Editor.csproj": {}
+  },
+  "projects": {
+    "/home/fk/Unity/rl_20221129/Unity.ML-Agents.CommunicatorObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.CommunicatorObjects.csproj",
+        "projectName": "Unity.ML-Agents.CommunicatorObjects",
+        "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.CommunicatorObjects.csproj",
+        "packagesPath": "/home/fk/.nuget/packages/",
+        "outputPath": "/home/fk/Unity/rl_20221129/Temp/obj/Debug/Unity.ML-Agents.CommunicatorObjects/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.424/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Editor.csproj",
+        "projectName": "Unity.ML-Agents.Editor",
+        "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Editor.csproj",
+        "packagesPath": "/home/fk/.nuget/packages/",
+        "outputPath": "/home/fk/Unity/rl_20221129/Temp/obj/Debug/Unity.ML-Agents.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/fk/Unity/rl_20221129/Unity.ML-Agents.CommunicatorObjects.csproj": {
+                "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.CommunicatorObjects.csproj"
+              },
+              "/home/fk/Unity/rl_20221129/Unity.ML-Agents.csproj": {
+                "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.424/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.Editor.csproj",
+        "projectName": "Unity.ML-Agents.Extensions.Editor",
+        "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.Editor.csproj",
+        "packagesPath": "/home/fk/.nuget/packages/",
+        "outputPath": "/home/fk/Unity/rl_20221129/Temp/obj/Debug/Unity.ML-Agents.Extensions.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Editor.csproj": {
+                "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Editor.csproj"
+              },
+              "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.csproj": {
+                "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.csproj"
+              },
+              "/home/fk/Unity/rl_20221129/Unity.ML-Agents.csproj": {
+                "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.424/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.Input.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.Input.csproj",
+        "projectName": "Unity.ML-Agents.Extensions.Input",
+        "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.Input.csproj",
+        "packagesPath": "/home/fk/.nuget/packages/",
+        "outputPath": "/home/fk/Unity/rl_20221129/Temp/obj/Debug/Unity.ML-Agents.Extensions.Input/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/fk/Unity/rl_20221129/Unity.ML-Agents.csproj": {
+                "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.424/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.csproj",
+        "projectName": "Unity.ML-Agents.Extensions",
+        "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.csproj",
+        "packagesPath": "/home/fk/.nuget/packages/",
+        "outputPath": "/home/fk/Unity/rl_20221129/Temp/obj/Debug/Unity.ML-Agents.Extensions/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.Input.csproj": {
+                "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.Extensions.Input.csproj"
+              },
+              "/home/fk/Unity/rl_20221129/Unity.ML-Agents.csproj": {
+                "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.424/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fk/Unity/rl_20221129/Unity.ML-Agents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.csproj",
+        "projectName": "Unity.ML-Agents",
+        "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.csproj",
+        "packagesPath": "/home/fk/.nuget/packages/",
+        "outputPath": "/home/fk/Unity/rl_20221129/Temp/obj/Debug/Unity.ML-Agents/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/fk/Unity/rl_20221129/Unity.ML-Agents.CommunicatorObjects.csproj": {
+                "projectPath": "/home/fk/Unity/rl_20221129/Unity.ML-Agents.CommunicatorObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.424/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
