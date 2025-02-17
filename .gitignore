@@ -1,0 +1,6 @@
+simulation/Library/
+simulation/Temp/
+simulation/Logs/
+*.dylib
+*.7z
+*.dll
